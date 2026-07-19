@@ -1,4 +1,4 @@
-# 🛒 Harga Sembako (AdaSembako)
+# 🛒 Harga Sembako (harga-sembako)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-hargasembako.live-success?style=for-the-badge)](https://hargasembako.live)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-black?style=flat-square&logo=next.js)](https://nextjs.org)
