@@ -9,8 +9,6 @@
 
 Dibangun dengan fokus mendalam pada **Visual Storytelling**, **Micro-interactions**, dan **performa yang tetap ramah di perangkat kelas menengah-bawah** — karena target penggunanya adalah masyarakat umum yang mayoritas mengakses lewat HP dengan koneksi yang tidak selalu stabil.
 
-> 📌 Proyek ini didokumentasikan lengkap di [`blueprint.md`](guide/blueprint.md) (PRD & keputusan produk) dan [`agent-guide.md`](guide/agent-guide.md) (sistem desain & konvensi kode untuk AI coding agent).
-
 ---
 
 ## ✨ Key Features
