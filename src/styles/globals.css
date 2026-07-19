@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+:root {
+  --color-kapur: #f2e8cf;
+  --color-nila: #22314a;
+  --color-soga: #7a4e2d;
+  --color-kunyit: #d9a227;
+  --color-cabai: #c13b2a;
+  --color-daun: #4f7942;
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-full: 9999px;
+
+  --shadow-card: 0 4px 16px rgb(34 49 74 / 8%);
+  --shadow-hover: 0 8px 24px rgb(34 49 74 / 14%);
+
+  --font-display: var(--font-bitter);
+  --font-body: var(--font-plus-jakarta-sans);
+  --font-data: var(--font-ibm-plex-mono);
+}
+
+@theme inline {
+  --color-kapur: var(--color-kapur);
+  --color-nila: var(--color-nila);
+  --color-soga: var(--color-soga);
+  --color-kunyit: var(--color-kunyit);
+  --color-cabai: var(--color-cabai);
+  --color-daun: var(--color-daun);
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
+  --font-mono: var(--font-data);
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+}
+
+* {
+  border-color: var(--color-soga);
+}
+
+body {
+  min-height: 100%;
+  background: var(--color-kapur);
+  color: var(--color-nila);
+  font-family: var(--font-body), sans-serif;
+}
